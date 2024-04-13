@@ -1,4 +1,4 @@
-.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,..,.,.,..,.,.,.,.,..,.,,,,,,,,,,,,,,.,
+
 # Frontend Task
 Create a basic web whiteboard using React and [Fabric.js](http://fabricjs.com/articles/) on which users can
 1. Draw curves
