@@ -17,7 +17,9 @@ A basic whiteboard with drawing features has already been made for you, and you 
 3. Run `npm start`
 4. Access the app from http://localhost:3000. Click and drag your mouse to draw.
 
-To complete the task, you can build on top of this repo, or you can start from scratch.
+To complete the task, you can build on top of this repo, or you can start from scratch
+
+$%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%%%%%%%%%%%%%%%%%%%%%%
 
 Extra Credit:
 1. Add multiple pages to the whiteboard
